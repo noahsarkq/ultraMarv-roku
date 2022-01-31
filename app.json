@@ -31,6 +31,15 @@
       "BOT_TOKEN": {
           "description": "Get this value from @BotFather"
       },
+      "MULTI_CLIENT":"{
+  "description": "Get this value from @BotFather"
+  },
+     "MULTI_TOKEN1":"{
+  "description": "Get this value from @BotFather"
+  },
+     "MULTI_TOKEN2":"{
+  "description": "Get this value from @BotFather"
+  },
       "BIN_CHANNEL": {
           "description": "The BIN Channel ID. Read the readme for more info about this var"
       },
