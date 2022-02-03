@@ -32,13 +32,45 @@
           "description": "Get this value from @BotFather"
       },
       "MULTI_CLIENT": {
-  "description": "Get this value from d@BotFather"
+  "description": "Get this value from d@BotFather",
+          "required": false
   },
       "MULTI_TOKEN1": {
-  "description": "Get this value frodm @BotFather"
+  "description": "Get this value frodm @BotFather",
+          "required": false
   },
       "MULTI_TOKEN2": {
-  "description": "Get this value frdom @BotFather"
+  "description": "Get this value frdom @BotFather",
+          "required": false
+  },
+    "MULTI_TOKEN3": {
+  "description": "Get this value frdom @BotFather",
+          "required": false
+  },
+    "MULTI_TOKEN4": {
+  "description": "Get this value frdom @BotFather",
+          "required": false
+  },
+    "MULTI_TOKEN5": {
+  "description": "Get this value frdom @BotFather",
+          "required": false
+  },
+    "MULTI_TOKEN6": {
+  "description": "Get this value frdom @BotFather",
+          "required": false
+  },
+    "MULTI_TOKEN7": {
+  "description": "Get this value frdom @BotFather",
+          "required": false
+  },
+    "MULTI_TOKEN8": {
+  "description": "Get this value frdom @BotFather",
+          "required": false
+  },
+    
+    "MULTI_TOKEN9": {
+  "description": "Get this value frdom @BotFather",
+          "required": false
   },
       "BIN_CHANNEL": {
           "description": "The BIN Channel ID. Read the readme for more info about this var"
