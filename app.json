@@ -72,6 +72,12 @@
   "description": "Get this value frdom @BotFather",
           "required": false
   },
+     "AUTHORISED": {
+          "description": "Authorised persons separated by ,"
+      },
+    "HASH": {
+          "description": "HASH  separated by ,"
+      },
       "BIN_CHANNEL": {
           "description": "The BIN Channel ID. Read the readme for more info about this var"
       },
